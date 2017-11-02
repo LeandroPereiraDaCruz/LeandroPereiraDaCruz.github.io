@@ -25,6 +25,7 @@ $(function() {
                         "</h5>"+
                         "<div>" + val.body + "</div>"+
                         "<h5><Deixe seu comentário abaixo:/h5>"+
+                        "<div class=\"fb-comments\" data-href=\"https://leandropereiradacruz.github.io/post/" + val.id + ".html\" data-numposts=\"5\"></div>"+
                         "<br/>"+
                         "<hr/>"+
                     "<div/>"+
