@@ -1,5 +1,5 @@
 $(function(){
-    $('#body').load('pages/posts.html');
+    $('#body').load('/pages/posts.html');
     $.getJSON("data/posts.json", function(data) {
         var val = data[1];
         $("<div class=\"row justify-content-center\">"+
