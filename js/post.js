@@ -3,7 +3,7 @@ $(function(){
     $.getJSON("/data/posts.json", function(data) {
         var page = location.pathname.split('/').slice(-1)[0];
         var index = page.slice(0,-5);
-        var val = data[index];
+        var val = data[index - 1];
         $("<div class=\"row justify-content-center\">"+
             "<div class=\"col\">"+
                 "<a href=\"post/" + val.id + ".html\">" +
