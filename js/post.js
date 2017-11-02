@@ -1,7 +1,9 @@
 $(function(){
     $('#body').load('/pages/posts.html');
-    $.getJSON("data/posts.json", function(data) {
-        var val = data[1];
+    $.getJSON("/data/posts.json", function(data) {
+        var index = page.slice(0,-5);
+        alert(index);
+        var val = data[index];
         $("<div class=\"row justify-content-center\">"+
             "<div class=\"col\">"+
                 "<a href=\"post/" + val.id + ".html\">" +
