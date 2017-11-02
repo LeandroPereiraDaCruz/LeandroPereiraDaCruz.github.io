@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "created": "24/09/2016 11:56",
+        "title": "Hackaton Uni-FACEF 2016",
+        "body": "<p>O hackaton Uni-FACEF 2016 foi um evento que durou 24 horas, realizado no dia 20 e 21 de agosto de 2016.</p><p>Foram desenvolvidos vários projetos pelos alunos das turmas do 3ª e 4ª ano do curso de Sistemas de Informação da Uni-FACEF, os projetos foram apresentados e porteriormente avaliados pela banca examinadora.</p><p>Todos os projetos estiveram relacionados a soluções na area de varejo sugeridos pela empresa Luizalabs de Franca.</p><div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/ejoGz2yilEs?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></div><br><div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/tIQWet1RR-g?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></div>",
+        "category": "Eventos"
+    },
+    {
+        "id": "2",
+        "created": "24/09/2016 14:23",
+        "title": "Inauguração do Blog",
+        "body": "<p>Hoje é um dia para comemorar!</p><p>É o dia que o blog foi disponibilizado no github. Ebaahh</p>",
+        "category": "Eventos"
+    },
+    {
+        "id": "3",
+        "created": "30/09/2016 23:36",
+        "title": "Market place nas lojas. Mah oe",
+        "body": "<p>Hoje é o último dia do mês. E pra encerrar com chave de ouro, segue abaixo dois vídeos super legais dos Silvios Santos</p><div class=\"embed-responsive embed-responsive-4by3\"><iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcassio.thadeu%2Fvideos%2F1541341439255219%2F&show_text=0\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\" width=\"100%\" class=\"embed-responsive-item\"></iframe></div><div class=\"embed-responsive embed-responsive-4by3\"><iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcassio.thadeu%2Fvideos%2F1541388335917196%2F&show_text=0\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\" width=\"100%\" class=\"embed-responsive-item\"></iframe></div>",
+        "category": "Eventos"
+    }
+]
